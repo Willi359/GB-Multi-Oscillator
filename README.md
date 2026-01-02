@@ -1,4 +1,4 @@
-# Pocket-Connector
+# GB MULTI OSCILLATOR
 ![GB-MO hero: multiple instances of the GB Multi Oscillator](/images/GB_MO_hero.JPG)
 ![GB-MO schematic](/images/GB_MO_schematic.png)
 
