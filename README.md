@@ -10,7 +10,7 @@
 
 ## Links and related stuff
 [Arduinoby](https://github.com/trash80/Arduinoboy) & [MGB](https://github.com/trash80/mGB) by trash80  
-[Game by Triple Oscillator](https://www.lookmumnocomputer.com/projects#/gameboy-triple-oscillator)
+[Game by Triple Oscillator](https://www.lookmumnocomputer.com/projects#/gameboy-triple-oscillator) my LMNC
 
 ## Famous last words:
 have FUN and don't blame me if you fry your Game Boys ;)
